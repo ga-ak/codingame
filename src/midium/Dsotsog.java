@@ -7,7 +7,7 @@ public class Dsotsog {
         T data;
         Node<T> parent;
         List<Node<T>> children;
-	    int count = 0;
+
 	    int depth = 0;
         Node(T data) {
             this.data = data;
